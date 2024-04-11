@@ -1,4 +1,4 @@
-# Patrones-de-Diseño
+#Patrones creacionales/Patron1
 using System;
 
 namespace RefactoringGuru.DesignPatterns.AbstractFactory.Conceptual
